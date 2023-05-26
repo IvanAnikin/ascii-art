@@ -9,7 +9,7 @@ To install the required libraries for the software run these commands on your li
     sudo apt install libpng-dev
     sudo apt install libjpeg-dev
 
-+ other if you don't have the c++ standard libraries  
+and other if you don't have the c++ standard libraries  
 
 ## Compilation - make
 You can compile and run the application immediately using 
@@ -29,6 +29,16 @@ To clean up software files
     make clean
 
 ## Usage - examples
+
+Run the code using 
+
+    ./asciiart
+
+or 
+
+    make run
+
+as mentioned earlier
 
 ### Ascii image
 My project can output a visual representation of the input images.
