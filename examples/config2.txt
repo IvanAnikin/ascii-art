@@ -1,0 +1,11 @@
+WidthMaximiserFilter true 3
+HeightMaximiserFilter true 6
+StepFilter true 11
+BrightnessFilter true 5
+NegativeFilter false
+SavingFilter false
+ConvolutionFilter false
+GreyScaleFilter false
+ActiveIndexFilter true 9
+AnimationDelayFilter true 11
+ColorFilter true 3

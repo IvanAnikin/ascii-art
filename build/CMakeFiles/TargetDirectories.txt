@@ -1,0 +1,3 @@
+/Users/ivananikin/Documents/anikiiva/semestralka/moje_ascii/build/CMakeFiles/MyProject.dir
+/Users/ivananikin/Documents/anikiiva/semestralka/moje_ascii/build/CMakeFiles/edit_cache.dir
+/Users/ivananikin/Documents/anikiiva/semestralka/moje_ascii/build/CMakeFiles/rebuild_cache.dir

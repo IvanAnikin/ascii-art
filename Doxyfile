@@ -1,0 +1,28 @@
+# Doxyfile
+
+# Project settings
+PROJECT_NAME           = ASCII ART
+OUTPUT_DIRECTORY       = doc
+EXTRACT_ALL            = YES
+RECURSIVE              = YES
+OPTIMIZE_OUTPUT_FOR_C  = YES
+
+# File settings
+INPUT                  = .
+FILE_PATTERNS          = *.cpp *.h
+
+# Exclude some directories if needed
+EXCLUDE                = */build/*
+
+# Output format
+GENERATE_HTML          = YES
+HTML_OUTPUT = .
+GENERATE_LATEX         = NO
+GENERATE_MAN           = NO
+
+# Configuration options
+ALIASES                = "rst=\verbatim embed:rst:leading-asterisk"
+
+# Enable detailed documentation for all members
+FULL_PATH_NAMES        = YES
+INHERIT_DOCS           = YES
